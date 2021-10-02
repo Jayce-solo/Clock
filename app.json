@@ -1,0 +1,10 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "navigationBarTitleText": "手绘闹钟"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

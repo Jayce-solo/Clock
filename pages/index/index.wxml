@@ -1,0 +1,7 @@
+<view class="container">
+<text>My Clock</text>
+<canvas canvas-id="clockCanvas">
+
+</canvas>
+<text>{{h}}:{{m}}:{{s}} <text style="color: silver;font-size: 20pt;">{{status}}</text></text>
+</view>
